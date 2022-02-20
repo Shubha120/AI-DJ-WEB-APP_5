@@ -1,0 +1,28 @@
+.h3{
+    width:100%;
+    margin:0px;
+    font-size:25px;
+    color:azure;
+}
+
+span{
+    font-size:15px;
+    color:black;
+}
+body{
+    background-size:cover;
+
+}
+.Play{
+    font-size:25px;
+    margin:15px;
+    font-weight:bolder;
+    width:170px;
+    color:beige;
+}
+
+canvas{
+    border:15px solid rgb(251, 226, 226);
+    border-radius:20px;
+    box-shadow:5px 5px 15px blue;
+}
